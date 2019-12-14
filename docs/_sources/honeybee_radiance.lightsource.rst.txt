@@ -1,0 +1,25 @@
+honeybee\_radiance.lightsource package
+======================================
+
+Subpackages
+-----------
+
+.. toctree::
+
+    honeybee_radiance.lightsource.sky
+
+Submodules
+----------
+
+.. toctree::
+
+   honeybee_radiance.lightsource.ground
+   honeybee_radiance.lightsource.sunpath
+
+Module contents
+---------------
+
+.. automodule:: honeybee_radiance.lightsource
+    :members:
+    :undoc-members:
+    :show-inheritance:

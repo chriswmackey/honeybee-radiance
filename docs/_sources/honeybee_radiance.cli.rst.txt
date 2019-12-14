@@ -1,0 +1,20 @@
+honeybee\_radiance.cli package
+==============================
+
+Submodules
+----------
+
+.. toctree::
+
+   honeybee_radiance.cli.grid
+   honeybee_radiance.cli.sky
+   honeybee_radiance.cli.sunpath
+   honeybee_radiance.cli.util
+
+Module contents
+---------------
+
+.. automodule:: honeybee_radiance.cli
+    :members:
+    :undoc-members:
+    :show-inheritance:
